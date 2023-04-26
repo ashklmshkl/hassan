@@ -1,0 +1,45 @@
+/* styles for the header */
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+body {
+    font-family: arial,sans-serif;
+}
+/* styles for the navigation bar */
+nav {
+	background-color: #444;
+	color: #fff;
+	padding: 10px;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* styles for the main content */
+main {
+	padding: 20px;
+}
+
+/* styles for the footer */
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
